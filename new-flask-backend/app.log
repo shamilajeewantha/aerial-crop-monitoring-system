@@ -1,0 +1,617 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 252-701-120
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 252-701-120
+INFO:werkzeug:127.0.0.1 - - [02/Nov/2023 13:06:07] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Nov/2023 13:06:07] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Nov/2023 13:06:15] "OPTIONS /signupst HTTP/1.1" 200 -
+INFO:root:Received data - Name: sdssds, Email: shamiljeewanth@gmail.com, Password: sdsdsdsdsd
+INFO:werkzeug:127.0.0.1 - - [02/Nov/2023 13:06:15] "POST /signupst HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 12:22:33] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 12:22:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 12:24:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 12:51:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:13:51] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:13:51] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:32:10] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:32:11] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:36:05] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:36:06] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:36:11] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:36:13] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:36:31] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:36:32] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:41:42] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:41:42] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:41:46] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:41:47] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:42:33] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:42:34] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:48:53] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:48:54] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:50:31] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:50:31] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:53:40] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:53:40] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:55:06] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:55:08] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:55:51] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:55:52] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:58:45] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:58:45] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:59:31] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 13:59:32] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:01:01] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:01:03] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:13:42] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:13:42] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:13:46] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:13:48] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:16:15] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:16:16] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:16:22] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:16:23] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:17:51] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:17:52] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:17:55] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:17:56] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:18:19] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:18:20] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:19:59] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:20:00] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:20:10] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:20:11] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:21:23] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:21:24] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:21:40] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:21:41] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:26:41] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:26:41] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:26:43] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:26:44] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:40:35] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:40:35] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:40:41] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:40:42] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:44:19] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:44:20] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:44:24] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:44:25] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:48:07] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:48:08] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:48:13] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:48:14] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:49:58] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:49:59] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:51:07] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2023 14:51:08] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2023 00:49:04] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2023 00:49:04] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2023 00:49:33] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2023 00:49:33] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2023 00:49:36] "OPTIONS / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2023 00:49:50] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\fbdownload_unet_upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:10:27] "OPTIONS / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:10:45] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:11:42] "OPTIONS / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:11:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:13:58] "OPTIONS / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:14:08] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:16:00] "OPTIONS / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:16:13] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:19:35] "OPTIONS / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:19:37] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:24:26] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-09-18/raw_images/
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:24:28] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:25:24] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-09-18/raw_images/
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:25:28] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:26:05] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-09-18/raw_images/
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:26:29] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\upload.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:59:11] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 19:59:32] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:06:29] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:06:50] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:08:32] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:08:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:09:39] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:10:04] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:13:39] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['images_2023-12-02@19-54-17/result_images/image.jpg', 'images_2023-12-02@19-54-17/result_images/mask_63.110.jpg']
+INFO:root:Received data - Name: ['results\\image.jpg', 'results\\mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:14:10] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:14:55] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['images_2023-12-02@19-54-17/result_images/image.jpg', 'images_2023-12-02@19-54-17/result_images/mask_63.110.jpg']
+INFO:root:Received data - Name: ['results\\image.jpg', 'results\\mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:15:22] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:18:21] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:18:52] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\uni\\moodle\\sem 5\\1. Embedded systems project\\main branch\\flaskBackendNew\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:19:57] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:20:37] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:23:30] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:23:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:25:10] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:25:32] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:28:09] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:28:34] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:33:27] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:33:27] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:34:15] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 20:34:15] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:00:57] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:01:14] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:16:09] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:16:09] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:16:18] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:16:33] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:16:57] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:16:57] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:17:47] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:17:47] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:40:03] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:40:07] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:40:14] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:48:02] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:48:02] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:48:03] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:48:18] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:48:18] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:51:48] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:51:48] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:54:29] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:54:29] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:55:55] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:55:55] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:57:19] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:57:19] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:57:38] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:57:38] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:59:25] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:59:25] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:59:42] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 21:59:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:00:21] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:00:21] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:00:28] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:00:38] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:00] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:00] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:03] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:17] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:35] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:35] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:37] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:50] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:08:55] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:09:07] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:21:00] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:21:11] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:22:32] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:22:42] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:25:33] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:25:33] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:26:05] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:26:15] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:28:50] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@19-54-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:29:03] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:31:13] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:31:13] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:32:49] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-02@22-31-35
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:33:16] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:38:08] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:38:08] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:47:41] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:47:41] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:47:52] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 22:47:52] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 23:03:43] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2023 23:03:43] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 07:52:18] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 07:52:18] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:03:16] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@08-02-55
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:03:35] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:04:48] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@08-02-55
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:05:01] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:07:08] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@08-02-55
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_63.110.jpg']
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:07:35] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 108-735-538
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:17:28] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:17:28] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:20:55] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@08-14-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:21:08] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:22:08] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@08-14-17
+INFO:root:Received data - Name: []
+INFO:root:Received data - Name: []
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:22:20] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:24:50] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@08-14-17
+INFO:root:Received data - Name: ['image.jpg', 'mask_66.840.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_66.840.jpg']
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:25:44] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:26:27] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:26:27] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:41:53] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:41:53] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:43:57] "OPTIONS / HTTP/1.1" 200 -
+INFO:root:Received data - Name: images_2023-12-05@03-11-36
+INFO:root:Received data - Name: ['image.jpg', 'mask_66.840.jpg']
+INFO:root:Received data - Name: ['image.jpg', 'mask_66.840.jpg']
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 08:44:39] "POST / HTTP/1.1" 200 -

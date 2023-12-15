@@ -1,0 +1,28 @@
+.list-group-item.active:hover {
+    background-color: #aed248 !important;
+    border-color: #aed248 !important;
+  }
+  .list-group-item.active,
+  .list-group-item.active:hover {
+    background-color: #007715 !important;
+    border-color: #aed248 !important;
+  }
+  
+  #joinus .list-group-item.active,
+  .list-group-item.active:hover {
+    background-color: #adce1b !important;
+    border-color: #adce1b !important;
+  }
+  #whyptcl .list-group-item.active,
+  .list-group-item.active:hover {
+    background-color: #adce1b !important;
+    border-color: #adce1b !important;
+  }
+  .panel {
+    margin-bottom: 20px;
+    background-color: transparent !important;
+    border: 0px solid transparent;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  }

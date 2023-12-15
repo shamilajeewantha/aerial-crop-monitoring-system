@@ -1,0 +1,133 @@
+import React, { useState } from 'react';
+
+// Import Bootstrap CSS (you may also need to import the JavaScript and jQuery scripts)
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+function ViewAnalysisSummary() {
+  const [activeTab, setActiveTab] = useState('home'); // Initialize the active tab state
+
+  // Function to handle tab click and update the activeTab state
+  const handleTabClick = (tabName) => {
+    setActiveTab(tabName);
+  };
+
+  return (
+    <div className="container my-4">
+      <div className="row">
+        {/* List group column */}
+        <div className="col-md-4">
+          <div className="list-group" id="myList" role="tablist">
+            <a
+              className={`list-group-item list-group-item-action ${activeTab === 'home' ? 'active' : ''}`}
+              href="#home"
+              role="tab"
+              onClick={() => handleTabClick('home')}
+            >
+              Home
+            </a>
+            <a
+              className={`list-group-item list-group-item-action ${activeTab === 'profile' ? 'active' : ''}`}
+              href="#profile"
+              role="tab"
+              onClick={() => handleTabClick('profile')}
+            >
+              Profile
+            </a>
+            <a
+              className={`list-group-item list-group-item-action ${activeTab === 'messages' ? 'active' : ''}`}
+              href="#messages"
+              role="tab"
+              onClick={() => handleTabClick('messages')}
+            >
+              Messages
+            </a>
+            <a
+              className={`list-group-item list-group-item-action ${activeTab === 'settings' ? 'active' : ''}`}
+              href="#settings"
+              role="tab"
+              onClick={() => handleTabClick('settings')}
+            >
+              Settings
+            </a>
+          </div>
+        </div>
+
+        {/* Tab content column */}
+        <div className="col-md-8">
+          <div className="tab-content">
+            <div
+              className={`tab-pane ${activeTab === 'home' ? 'active' : ''}`}
+              id="home"
+              role="tabpanel"
+            >
+              Content for Home tab goes here.
+            </div>
+            <div
+              className={`tab-pane ${activeTab === 'profile' ? 'active' : ''}`}
+              id="profile"
+              role="tabpanel"
+            >
+              Content for Profile tab goes here.
+            </div>
+            <div
+              className={`tab-pane ${activeTab === 'messages' ? 'active' : ''}`}
+              id="messages"
+              role="tabpanel"
+            >
+              Content for Messages tab goes here.
+            </div>
+            <div
+              className={`tab-pane ${activeTab === 'settings' ? 'active' : ''}`}
+              id="settings"
+              role="tabpanel"
+            >
+              Content for Settings tab goes here.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default ViewAnalysisSummary;
+/* import React, { useEffect, useState } from 'react';
+import { FirebaseQuery } from './FirebaseQuery';
+
+function ViewAnalysis() {
+  const { data, error } = FirebaseQuery();
+  const [dataAvailable, setDataAvailability] = useState(false);
+
+  useEffect(() => {
+    if (data) {
+      setDataAvailability(true);
+    }
+  }, [data]);
+
+  return (
+    <div>
+      {dataAvailable ? (
+        error ? (
+          <div>Error: {error.message}</div>
+        ) : (
+          <div>
+            <h2>Farms List</h2>
+            {Object.keys(data).map((key, index) => (
+              <div key={index}>
+                <pre>{JSON.stringify(data[key], null, 2)}</pre>
+              </div>
+            ))}
+          </div>
+        )
+      ) : (
+        <div>Data is not available.</div>
+      )}
+    </div>
+  );
+}
+
+export default ViewAnalysis;
+
+
+
+ */

@@ -1,0 +1,6 @@
+body {
+    background-image: url('../assets/background.webp'); /* The image used */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+  }
