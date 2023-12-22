@@ -39,14 +39,19 @@ Computer vision analysis of non-cultivated areas aids in the planning of effecti
 
 2. **Data Collection:** Fly the drone over the field and capture images of the entire area.
 
-3. **Onboard image stitching:** Images captured by the drone at certain intervals are processed by a Jetson Nano B01 to create a map to be sent wirelessly to farmer's computer.
+3. **Image stitching:** Images captured by the drone at certain intervals are stored on Firebase by an onboard Raspberry Pi 3 computer.
    
-4. **Wireless Image Transfer Using Flask:** Processed images will be sent wirelessly to the farmer's computer and stored using a Flask backend program.
+4. **Flask Backend:** Farmers can use their user interface to analyze images once the drone flight is complete.
    
 5. **Computer Vision Processing:** Implement image segmentation algorithms to distinguish cultivated and non-cultivated areas based on visual characteristics.
    
-6. **Visualization:** Display the segmentation maps and vegetation analysis results in a clear and understandable manner through a web app.
+6. **Visualization:** Display the segmentation maps and vegetation percentage through a web app.
 
+##System Diagram
+![screenshot](screenshots/system.png)
+
+##Flask Backend
+![screenshot](screenshots/backend.png)
 
 ## Image_Stitching
 Image stitching is a computer vision technique that involves combining multiple overlapping images into a single, seamless panoramic image. The goal of image stitching is to create a larger and wider view of a scene that cannot be captured in a single shot by a camera. This technique is commonly used to create panoramic photographs or to generate wide-field-of-view images for applications such as virtual reality, surveillance, and etc.
@@ -61,6 +66,9 @@ U-Net is a convolutional neural network (CNN) architecture designed for semantic
 In my project, I utilized libraries like `cv2`, `numpy`, `matplotlib`, and `torch` to implement a U-Net architecture. These libraries facilitated image processing, array operations, visualization, and deep learning tasks. By integrating these tools, I achieved a versatile solution that combines various capabilities to address the project's objectives. The code and documentation provide insights into this collaborative approach.
 
 ![screenshot](screenshots/unet.png)
+
+##Edge System
+![screenshot](screenshots/Rpi.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
