@@ -53,7 +53,7 @@ Computer vision analysis of non-cultivated areas aids in the planning of effecti
 
 ## Flask Backend
 
-![screenshot](screenshots/backend.png)
+![screenshot](screenshots/backendd.png)
 
 ## Image_Stitching
 Image stitching is a computer vision technique that involves combining multiple overlapping images into a single, seamless panoramic image. The goal of image stitching is to create a larger and wider view of a scene that cannot be captured in a single shot by a camera. This technique is commonly used to create panoramic photographs or to generate wide-field-of-view images for applications such as virtual reality, surveillance, and etc.
