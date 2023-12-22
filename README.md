@@ -47,10 +47,12 @@ Computer vision analysis of non-cultivated areas aids in the planning of effecti
    
 6. **Visualization:** Display the segmentation maps and vegetation percentage through a web app.
 
-##System Diagram
+## System Diagram
+
 ![screenshot](screenshots/system.png)
 
-##Flask Backend
+## Flask Backend
+
 ![screenshot](screenshots/backend.png)
 
 ## Image_Stitching
@@ -67,7 +69,8 @@ In my project, I utilized libraries like `cv2`, `numpy`, `matplotlib`, and `torc
 
 ![screenshot](screenshots/unet.png)
 
-##Edge System
+## Edge System
+
 ![screenshot](screenshots/Rpi.png)
 
 ## License
