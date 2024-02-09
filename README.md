@@ -1,6 +1,7 @@
 # Aerial Crop Monitoring System
 
 Semester 5 embedded systems project on crop monitoring using a drone.
+Local Folder : https://drive.google.com/file/d/1GdXNny6uh2c8acCmL4zzv7WGXyAGMLp3/view?usp=drive_link
 
 ## Table of Contents
 - [Introduction](#introduction)
